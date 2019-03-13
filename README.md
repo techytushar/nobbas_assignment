@@ -17,9 +17,18 @@ Solution to the Machine Learning Assignment for Internship at Nobbas Technologie
 * Ensemble models such as Random Forest and Ada Boost Classifier gives good accuracy, but as the size of dataset grows the training will become slower and also the performance will degrade.
 * Classification using Neural Networks would be the best way, regardless of the type of data provided, because it would be able to take advantage of all the different features and also there are lots of hyperparameters to play with so they can be fine tuned to perform even better.
 
+### How to run
+
+* Python version >=3.5 supported
+* Install the required modules using `pip3 install -r requirements.txt`
+* Run the jupyter notebook using `jupyter notebook` command and open the `solution.ipynb`
+
 ### References
 
 I referred to the official documentation of the modules to understand the usage of functions
+
 **Pandas :** [https://pandas.pydata.org/pandas-docs/stable](https://pandas.pydata.org/pandas-docs/stable)
+
 **Scikit Learn :** [https://scikit-learn.org/stable](https://scikit-learn.org/stable/)
+
 **Matplotlib :** [https://matplotlib.org/3.0.3/index.html](https://matplotlib.org/3.0.3/index.html)
